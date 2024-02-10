@@ -1,0 +1,39 @@
+Added Component: Designator=IC8(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp1405-esn/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1405-E-SN?qs=usxtMOJb1Rz6iJkGGONxgg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R78E5005
+Added Component: Designator=Q1(DMP3028LK313)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3028lk3-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/DMP3028LK3-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.39mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3028LK3-13?qs=OVC8WVYZliSFpRP3sPErZQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=PWM11H Pin=IC8-2
+Added Pin To Net: NetName=GND Pin=IC8-3
+Added Pin To Net: NetName=PWM12H Pin=IC8-4
+Added Pin To Net: NetName=out_b Pin=IC8-5
+Added Pin To Net: NetName=+5V Pin=IC8-6
+Added Pin To Net: NetName=out_a Pin=IC8-7
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Added Pin To Net: NetName=out_a Pin=Q1-1
+Added Pin To Net: NetName=MOSFET_A Pin=Q1-2
+Added Pin To Net: NetName=NetJP1_1 Pin=Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Member To Class: ClassName=MOSFETS Member=Component IC8 MCP1405-E_SN
+Add Class Member: Failed to add class member : Component PS1 R-78E5.0-0.5
+Added Member To Class: ClassName=MOSFETS Member=Component Q1 DMP3028LK3-13
+Add Class Member: Failed to add class member : Component Q2 DMP3028LK3-13

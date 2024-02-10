@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=out_a Pin=Q1-1
+Removed Pin From Net: NetName=MOSFET_A Pin=Q1-2
+Removed Pin From Net: NetName=NetJP1_1 Pin=Q1-3
+Add Component: Footprint Not Found R78E5005
+Add Component: Footprint Not Found Model Name
+Add Component: Footprint Not Found Model Name
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Class Member: Failed to add class member : Component PS1 R-78E5.0-0.5
+Add Class Member: Failed to add class member : Component Q2 DMP3028LK3-13

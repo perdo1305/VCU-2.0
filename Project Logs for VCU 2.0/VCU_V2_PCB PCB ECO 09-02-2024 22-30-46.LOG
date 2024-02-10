@@ -1,0 +1,48 @@
+Added Component: Designator=J2(1-776087-5)
+Added Component: Designator=J3(1-776087-5)
+Added Pin To Net: NetName=CAN1_L Pin=J2-1
+Added Pin To Net: NetName=CAN2_H Pin=J2-2
+Added Pin To Net: NetName=CAN4_L Pin=J2-3
+Added Pin To Net: NetName=U3RX Pin=J2-4
+Added Pin To Net: NetName=APPS_1 Pin=J2-5
+Added Pin To Net: NetName=APPS_2 Pin=J2-6
+Added Pin To Net: NetName=+3v3 Pin=J2-7
+Added Pin To Net: NetName=+24VBAT Pin=J2-8
+Added Pin To Net: NetName=CAN1_H Pin=J2-9
+Added Pin To Net: NetName=CAN3_L Pin=J2-10
+Added Pin To Net: NetName=CAN4_H Pin=J2-11
+Added Pin To Net: NetName=U3TX Pin=J2-12
+Added Pin To Net: NetName=+5V_APPS_2 Pin=J2-13
+Added Pin To Net: NetName=+5V_APPS_1 Pin=J2-14
+Added Pin To Net: NetName=+5V Pin=J2-15
+Added Pin To Net: NetName=CAN2_L Pin=J2-16
+Added Pin To Net: NetName=CAN3_H Pin=J2-17
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND_I Pin=J2-22
+Added Pin To Net: NetName=GND_I Pin=J2-23
+Added Pin To Net: NetName=GND_I Pin=J3-1
+Added Pin To Net: NetName=+5V Pin=J3-2
+Added Pin To Net: NetName=AN15_CON Pin=J3-3
+Added Pin To Net: NetName=INT1 Pin=J3-4
+Added Pin To Net: NetName=GPIO_RC10 Pin=J3-5
+Added Pin To Net: NetName=OC13 Pin=J3-6
+Added Pin To Net: NetName=MOSFET_B Pin=J3-7
+Added Pin To Net: NetName=MOSFET_A Pin=J3-8
+Added Pin To Net: NetName=+24VBAT Pin=J3-9
+Added Pin To Net: NetName=+3v3 Pin=J3-10
+Added Pin To Net: NetName=AN14_CON Pin=J3-11
+Added Pin To Net: NetName=GPIO_RB5 Pin=J3-12
+Added Pin To Net: NetName=GPIO_RB7 Pin=J3-13
+Added Pin To Net: NetName=OC14 Pin=J3-14
+Added Pin To Net: NetName=GND Pin=J3-15
+Added Pin To Net: NetName=GND_I Pin=J3-16
+Added Pin To Net: NetName=GND Pin=J3-17
+Added Pin To Net: NetName=INT3 Pin=J3-18
+Added Pin To Net: NetName=GPIO_RB6 Pin=J3-19
+Added Pin To Net: NetName=OC12 Pin=J3-20
+Added Pin To Net: NetName=GND Pin=J3-23
+Added Member To Class: ClassName=OUTPUT Member=Component J2 1-776087-5
+Added Member To Class: ClassName=OUTPUT Member=Component J3 1-776087-5

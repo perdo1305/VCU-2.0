@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=5V NewDesignator=JP2
+Change Component Designator: OldDesignator=5V NewDesignator=JP4
+Change Component Designator: OldDesignator=24V NewDesignator=JP1
+Change Component Designator: OldDesignator=24V NewDesignator=JP3
+Change Component Designator: OldDesignator=ADC_APPS1 NewDesignator=TP6
+Change Component Designator: OldDesignator=APPS1 NewDesignator=TP8
+Change Component Designator: OldDesignator=Drain A NewDesignator=TP10
+Change Component Designator: OldDesignator=Drain B NewDesignator=TP13
+Change Component Designator: OldDesignator=PWM11H NewDesignator=TP11
+Change Component Designator: OldDesignator=PWM12H NewDesignator=TP12
+Change Component Designator: OldDesignator=SCL NewDesignator=TP15
+Change Component Designator: OldDesignator=SDA NewDesignator=TP14
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=D13-A
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Member To Class: ClassName=MOSFETS Member=Component JP2 Solder Jumper
+Added Member To Class: ClassName=MOSFETS Member=Component JP3 Solder Jumper

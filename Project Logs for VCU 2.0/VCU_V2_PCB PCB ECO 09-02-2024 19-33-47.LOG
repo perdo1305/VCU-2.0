@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=out_b Pin=IC8-5
+Removed Pin From Net: NetName=out_a Pin=IC8-7
+Removed Pin From Net: NetName=out_a Pin=R31-1
+Removed Pin From Net: NetName=out_b Pin=R32-2
+Change Component Designator: OldDesignator=5V_APPS1 NewDesignator=TP5
+Change Component Designator: OldDesignator=5V_APPS2 NewDesignator=TP4
+Added Pin To Net: NetName=NetIC8_5 Pin=IC8-5
+Added Pin To Net: NetName=NetIC8_5 Pin=R32-2
+Added Net: Name=NetIC8_5
+Added Pin To Net: NetName=NetIC8_7 Pin=IC8-7
+Added Pin To Net: NetName=NetIC8_7 Pin=R31-1
+Added Net: Name=NetIC8_7
+Added Member To Class: ClassName=POWER Member=Component TP5 TP_NOBOM

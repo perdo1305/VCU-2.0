@@ -1,0 +1,68 @@
+Change Component Comment : Designator=L1 Old Comment=5u6 New Comment=1625812-4
+Change Component Library : Designator=D1 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D2 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D3 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D4 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D5 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D6 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D7 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=D8 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=FL1 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=FL2 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=FL3 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Change Component Library : Designator=FL4 Old Library=* New Library=Pedro_Integrated_Library.IntLib
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found R78E5005
+Add Component: Footprint Not Found DMP3028LK313
+Add Component: Footprint Not Found DMP3028LK313
+Add Pin To Net: Unknown Pin: Pin IC8-2
+Add Pin To Net: Unknown Pin: Pin IC8-3
+Add Pin To Net: Unknown Pin: Pin IC8-4
+Add Pin To Net: Unknown Pin: Pin IC8-5
+Add Pin To Net: Unknown Pin: Pin IC8-6
+Add Pin To Net: Unknown Pin: Pin IC8-7
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin LED4-1
+Add Pin To Net: Unknown Pin: Pin LED4-2
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED5-2
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED7-2
+Add Pin To Net: Unknown Pin: Pin LED8-1
+Add Pin To Net: Unknown Pin: Pin LED8-2
+Add Pin To Net: Unknown Pin: Pin PS1-1
+Add Pin To Net: Unknown Pin: Pin PS1-2
+Add Pin To Net: Unknown Pin: Pin PS1-3
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Class Member: Failed to add class member : Component IC8 MCP1405-E_SN
+Add Class Member: Failed to add class member : Component LED1 150080BS75000
+Add Class Member: Failed to add class member : Component LED2 150080BS75000
+Add Class Member: Failed to add class member : Component LED3 150080BS75000
+Add Class Member: Failed to add class member : Component LED4 150080BS75000
+Add Class Member: Failed to add class member : Component LED5 150080BS75000
+Add Class Member: Failed to add class member : Component LED6 150080BS75000
+Add Class Member: Failed to add class member : Component LED7 150080BS75000
+Add Class Member: Failed to add class member : Component LED8 150080BS75000
+Add Class Member: Failed to add class member : Component PS1 R-78E5.0-0.5
+Add Class Member: Failed to add class member : Component Q1 DMP3028LK3-13
+Add Class Member: Failed to add class member : Component Q2 DMP3028LK3-13

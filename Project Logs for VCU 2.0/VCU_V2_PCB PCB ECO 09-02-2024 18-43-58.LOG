@@ -1,0 +1,23 @@
+Added Component: Designator=PS1(R78E5005)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/r-78e5.0-0.5/recom-power?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/1560217c2d38d5ce10907af13420fc49.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RECOM Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "919-R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/RECOM-Power/R-78E5.0-0.5?qs=JeAkOuORR2UvBuiB2kZVZQ%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Model Name
+Add Component: Footprint Not Found Model Name
+Added Pin To Net: NetName=+24V Pin=PS1-1
+Added Pin To Net: NetName=GND Pin=PS1-2
+Added Pin To Net: NetName=+5V Pin=PS1-3
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Member To Class: ClassName=POWER Member=Component PS1 R-78E5.0-0.5
+Add Class Member: Failed to add class member : Component Q1 DMP3028LK3-13
+Add Class Member: Failed to add class member : Component Q2 DMP3028LK3-13

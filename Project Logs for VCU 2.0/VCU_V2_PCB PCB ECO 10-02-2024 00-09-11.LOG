@@ -1,0 +1,71 @@
+Added Component: Designator=J1(21992303)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2199230-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2199230-3/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/2199230-3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2199230-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-2199230-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2199230-3?qs=EQCnRgr4b6HElQOKr5ma1Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=RX_CAN_4 Pin=J1-9
+Added Pin To Net: NetName=SDA4 Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=SCL4 Pin=J1-22
+Added Pin To Net: NetName=TX_CAN_4 Pin=J1-23
+Added Pin To Net: NetName=AN14 Pin=J1-24
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-27
+Added Pin To Net: NetName=AN15 Pin=J1-28
+Added Pin To Net: NetName=AN9-APPS1 Pin=J1-29
+Added Pin To Net: NetName=INT3 Pin=J1-30
+Added Pin To Net: NetName=AN10-APPS2 Pin=J1-31
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=U3RX Pin=J1-34
+Added Pin To Net: NetName=INT1 Pin=J1-35
+Added Pin To Net: NetName=U3TX Pin=J1-36
+Added Pin To Net: NetName=TX_CAN_3 Pin=J1-37
+Added Pin To Net: NetName=GND Pin=J1-38
+Added Pin To Net: NetName=GND Pin=J1-39
+Added Pin To Net: NetName=GPIO_RB5 Pin=J1-40
+Added Pin To Net: NetName=RX_CAN_2 Pin=J1-41
+Added Pin To Net: NetName=GPIO_RB6 Pin=J1-42
+Added Pin To Net: NetName=RX_CAN_3 Pin=J1-43
+Added Pin To Net: NetName=GND Pin=J1-44
+Added Pin To Net: NetName=GND Pin=J1-45
+Added Pin To Net: NetName=GPIO_RC10 Pin=J1-46
+Added Pin To Net: NetName=TX_CAN_1 Pin=J1-47
+Added Pin To Net: NetName=GPIO_RB7 Pin=J1-48
+Added Pin To Net: NetName=TX_CAN_2 Pin=J1-49
+Added Pin To Net: NetName=GND Pin=J1-50
+Added Pin To Net: NetName=GND Pin=J1-51
+Added Pin To Net: NetName=RX_CAN_1 Pin=J1-53
+Added Pin To Net: NetName=LED_RA10 Pin=J1-55
+Added Pin To Net: NetName=GND Pin=J1-56
+Added Pin To Net: NetName=GND Pin=J1-57
+Added Pin To Net: NetName=LED_RB13 Pin=J1-59
+Added Pin To Net: NetName=PWM12H Pin=J1-60
+Added Pin To Net: NetName=LED_RAB12 Pin=J1-61
+Added Pin To Net: NetName=GND Pin=J1-62
+Added Pin To Net: NetName=GND Pin=J1-63
+Added Pin To Net: NetName=OC12 Pin=J1-64
+Added Pin To Net: NetName=LED_RAB11 Pin=J1-65
+Added Pin To Net: NetName=OC13 Pin=J1-66
+Added Pin To Net: NetName=LED_RAB10 Pin=J1-67
+Added Pin To Net: NetName=GND Pin=J1-68
+Added Pin To Net: NetName=GND Pin=J1-69
+Added Pin To Net: NetName=OC14 Pin=J1-70
+Added Pin To Net: NetName=PWM11H Pin=J1-73
+Added Pin To Net: NetName=GND Pin=J1-74
+Added Pin To Net: NetName=GND Pin=J1-75
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Pin To Net: NetName=GND Pin=J1-MP3
+Added Member To Class: ClassName=PIC32_NVME Member=Component J1 2199230-3
