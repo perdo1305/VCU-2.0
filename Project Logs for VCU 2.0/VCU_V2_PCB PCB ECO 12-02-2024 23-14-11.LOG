@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetIC7_1 Pin=IC7-1
+Removed Pin From Net: NetName=NetIC7_1 Pin=IC7-2
+Removed Pin From Net: NetName=NetC32_1 Pin=IC7-3
+Removed Pin From Net: NetName=GND Pin=IC7-4
+Removed Pin From Net: NetName=NetC34_1 Pin=IC7-5
+Removed Pin From Net: NetName=NetIC7_6 Pin=IC7-6
+Removed Pin From Net: NetName=NetIC7_6 Pin=IC7-7
+Removed Pin From Net: NetName=+5V Pin=IC7-8
+Added Component: Designator=IC7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6051_DS22182B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP6052-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP6052-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-MCP6052-E%2FSN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-1
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-2
+Added Pin To Net: NetName=NetC32_1 Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC7-4
+Added Pin To Net: NetName=NetC34_1 Pin=IC7-5
+Added Pin To Net: NetName=NetIC7_6 Pin=IC7-6
+Added Pin To Net: NetName=NetIC7_6 Pin=IC7-7
+Added Pin To Net: NetName=+5V Pin=IC7-8
+Added Member To Class: ClassName=PIC32_NVME Member=Component J1 2199230-3

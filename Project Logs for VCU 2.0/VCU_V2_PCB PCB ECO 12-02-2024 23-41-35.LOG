@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RC9 Pin=J1-54
+Added Pin To Net: NetName=RC9 Pin=J3-22
+Added Net: Name=RC9
+Added Pin To Net: NetName=RC13 Pin=J1-52
+Added Pin To Net: NetName=RC13 Pin=J3-21
+Added Net: Name=RC13
+Added Member To Class: ClassName=APPS Member=Component IC7 MCP6052-E_SN
