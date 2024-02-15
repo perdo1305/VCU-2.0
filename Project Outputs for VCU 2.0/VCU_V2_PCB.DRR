@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VCU_V2_PCB.PcbDoc   15/02/2024  23:17:40
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VCU_V2_PCB-RoundHoles.TXT
+ASCII SlotHoles File : VCU_V2_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             1335      PTH        3491.93mm (137.48inch)
+T2      0.5mm (20mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      1.15mm (45mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T5      1.75mm (69mil)                                            Round             46        PTH        225.31mm (8.87inch)
+T6      3.5mm (138mil)                                            Round             2         PTH        85.00mm (3.35inch)
+T7      3.5mm (138mil)                                            Slot              1         PTH        3.50mm (0.14inch)
+T8      1.15mm (45mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T9      1.65mm (65mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1394
+
+Total Processing Time (hh:mm:ss) : 00:00:00

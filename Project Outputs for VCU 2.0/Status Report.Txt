@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [VCU 2.0.PrjPcb]
+   Generated File[VCU_V2_PCB-RoundHoles.TXT]
+   Generated File[VCU_V2_PCB-SlotHoles.TXT]
+   Generated File[VCU_V2_PCB.LDP]
+   Generated File[VCU_V2_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:17:40 On 15/02/2024
